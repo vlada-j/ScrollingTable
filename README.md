@@ -1,0 +1,4 @@
+ScrollingTable
+==============
+
+jQuery plugin
