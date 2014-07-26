@@ -1,3 +1,13 @@
+/*
+ * jQuery ScrollingTable v1.0
+ * https://github.com/vlada-j/ScrollingTable
+ *
+ * Copyright 2012, Vlada Janosevic
+ * http://www.vladajanosevic.info/
+ * Free to use and change
+ *
+ * Required: jQuery 1.11.1
+ */
 +function ($) {
 	"use strict";
 
